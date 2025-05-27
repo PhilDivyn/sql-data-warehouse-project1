@@ -73,6 +73,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I am Philomina Adeyemi-Oke, Student of Data by Baraa (Baraa Khatib Salkini). I am a data analyst
-Let's stay in touch! Feel free to connect with me on the following platforms:
+
 
 
